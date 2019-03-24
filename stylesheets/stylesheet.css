@@ -630,10 +630,10 @@ form {
 }
 
 #main-content h2 {
-  margin-top: 0.5px
-  margin-bottom: 0.5px;
+  margin-top: -1px
+  margin-bottom: -1px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 33px;
+  font-size: 27px;
   font-weight: bold;
   color: #474747;
   text-indent: 4px;
@@ -646,8 +646,8 @@ form {
 }
 
 #main-content h3 {
-  margin-top: 0.5px
-  margin-bottom: 0.5px;
+  margin-top: -1px
+  margin-bottom: -1px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 22px;
   font-weight: bold;
@@ -747,7 +747,7 @@ dl dd {
     font-size: 60px;
   }
   header h2 {
-    font-size: 45px;
+    font-size: 37px;
   }
   header h3 {
     font-size: 30px;
@@ -785,7 +785,7 @@ dl dd {
     font-size: 48px;
   }
   header h2 {
-    font-size: 36px;
+    font-size: 30px;
   }
   header h3 {
     font-size: 24px;
