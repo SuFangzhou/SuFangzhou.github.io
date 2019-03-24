@@ -1,4 +1,4 @@
 ---
 layout: post
-post: Publications and Manuscripts
+title: Publications and Manuscripts
 ---
