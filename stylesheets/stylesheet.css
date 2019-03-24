@@ -451,7 +451,8 @@ header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/header-bg.png) 100% 100% no-repeat 0 0;
+  background: #2e7bcf url(../images/header-bg.png) no-repeat fixed center;
+  background-size: 100% 100%
 }
 
 header h1 {
@@ -624,8 +625,8 @@ form {
 #main-content h1:before {
   padding-right: 0.3em;
   margin-left: -0.9em;
-  color: #ff9999;
-  content: "+";
+  color: #ab2121;
+  content: "●";
 }
 
 #main-content h2 {
@@ -635,6 +636,12 @@ form {
   font-weight: bold;
   color: #474747;
   text-indent: 4px;
+}
+#main-content h2:before {
+  padding-right: 0.3em;
+  margin-left: -1.5em;
+  content: "+";
+  color: #9ddcff;
 }
 
 #main-content h3 {
