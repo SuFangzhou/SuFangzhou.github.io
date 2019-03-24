@@ -612,8 +612,8 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 #main-content h1 {
-  margin-top: 12px;
-  margin-bottom: -10px;
+  margin-top: 20px;
+  margin-bottom: -20px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 44px;
   font-weight: normal;
@@ -630,8 +630,8 @@ form {
 }
 
 #main-content h2 {
-  margin-top: -10px
-  margin-bottom: -10px;
+  margin-top: -15px
+  margin-bottom: -15px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 22px;
   font-weight: bold;
@@ -646,8 +646,8 @@ form {
 }
 
 #main-content h3 {
-  margin-top: -10px
-  margin-bottom: -10px;
+  margin-top: -15px
+  margin-bottom: -15px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 22px;
   font-weight: bold;
