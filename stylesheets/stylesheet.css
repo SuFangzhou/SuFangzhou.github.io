@@ -441,10 +441,10 @@ p {
 }
 
 a {
-  color: #2879d0;
+  color: #ab2121;
 }
 a:hover {
-  color: #2268b2;
+  color: #961d1d;
 }
 
 header {
@@ -472,7 +472,7 @@ header h2 {
   font-size: 26px;
   font-weight: normal;
   line-height: 1.3;
-  color: #9ddcff;
+  color: #ff9999;
   letter-spacing: 0;
 }
 
@@ -624,7 +624,7 @@ form {
 #main-content h1:before {
   padding-right: 0.3em;
   margin-left: -0.9em;
-  color: #9ddcff;
+  color: #ff9999;
   content: "+";
 }
 
