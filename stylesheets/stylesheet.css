@@ -631,7 +631,7 @@ form {
 
 #main-content h2 {
   margin-top: -15px
-  margin-bottom: -15px;
+  margin-bottom: -25px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 22px;
   font-weight: bold;
@@ -647,7 +647,7 @@ form {
 
 #main-content h3 {
   margin-top: -15px
-  margin-bottom: -15px;
+  margin-bottom: -30px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 22px;
   font-weight: bold;
