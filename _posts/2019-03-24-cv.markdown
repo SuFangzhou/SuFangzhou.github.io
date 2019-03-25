@@ -18,7 +18,7 @@ title: Curriculum Vitae
   **Peking University, Department of Machine Intelligence**, Beijing, China <br>
   *Key Laboratory of Machine Perception* <br>
   Research Assistant. Advisor: **Prof. Liwei Wang** <br>
-  **Project: Adversarial Robustness of Neural Networks**
+  **Project: Adversarial Robustness of Neural Networks** <br>
   <br>
 + 12.2017 - 09.2018 <br>
   **Tsinghua University, Department of Computer Science and Technology**, Beining, China <br>
