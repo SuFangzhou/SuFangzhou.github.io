@@ -16,10 +16,11 @@ title: Curriculum Vitae
 ## Research Experience
 + 
 +
-+
++ 12.2017 - 11.2018 <br>
+  **Tsinghua University**, Department of Mathematics
 + 03.2017 - 09.2017 <br>
-  **Tsinghua University , Department of Computer Science and Technology**, Beijing, China <br>
-  The Cloud Computing Club <br>
+  **Tsinghua University**, Department of Computer Science and Technology, Beijing, China <br>
+  *The Cloud Computing Club* <br>
   Research Assistant. <br>
   **Project: Spatial-Temporal Data Processing** <br>
 
