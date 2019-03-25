@@ -15,11 +15,20 @@ title: Curriculum Vitae
 
 ## Research Experience
 + 
-+
++ 12.2017 - 09.2018 <br>
+  **Tsinghua University, Department of Computer Science and Technology**, Beining, China <br>
+  *Graphics and Geometric Computing Group* <br>
+  Research Assistant. Advisor: **Prof. Shi-Min Hu** <br>
+  **Project: Interactive Modeling of Lofting Shapes from a Single Image** <br>
+  <br>
 + 12.2017 - 11.2018 <br>
-  **Tsinghua University**, Department of Mathematics
+  **Tsinghua University, Department of Mathematics**, Beijing, China <br>
+  *Institution of Pure Mathematics* <br>
+  Undergraduate Research Training. Advisor: **Prof. Jie Xiao** <br>
+  **Junior Thesis: McKay Correspondence and Representation of Quivers** <br>
+  <br>
 + 03.2017 - 09.2017 <br>
-  **Tsinghua University**, Department of Computer Science and Technology, Beijing, China <br>
+  **Tsinghua University, Department of Computer Science and Technology**, Beijing, China <br>
   *The Cloud Computing Club* <br>
   Research Assistant. <br>
   **Project: Spatial-Temporal Data Processing** <br>
