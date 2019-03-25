@@ -14,7 +14,12 @@ title: Curriculum Vitae
   *Undergraduate Special Student in the Department of Mathematics* <br>
 
 ## Research Experience
-+ 
++ 09.2018 - Present <br>
+  **Peking University, Department of Machine Intelligence**, Beijing, China <br>
+  *Key Laboratory of Machine Perception* <br>
+  Research Assistant. Advisor: **Prof. Liwei Wang** <br>
+  **Project: Adversarial Robustness of Neural Networks**
+  <br>
 + 12.2017 - 09.2018 <br>
   **Tsinghua University, Department of Computer Science and Technology**, Beining, China <br>
   *Graphics and Geometric Computing Group* <br>
