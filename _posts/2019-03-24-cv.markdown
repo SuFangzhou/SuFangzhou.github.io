@@ -21,7 +21,7 @@ title: Curriculum Vitae
   **Project: Adversarial Robustness of Neural Networks** <br>
   <br>
 + 12.2017 - 09.2018 <br>
-  **Tsinghua University, Dept. of Computer Science and Technology**, Beining, China <br>
+  **Tsinghua University, Dept. of Computer Science and Technology**, Beijing, China <br>
   *Graphics and Geometric Computing Group* <br>
   Research Assistant. Advisor: **Prof. Shi-Min Hu** <br>
   **Project: Interactive Modeling of Lofting Shapes from a Single Image** <br>
