@@ -2,3 +2,18 @@
 layout: post
 title: Curriculum Vitae
 ---
+
+## Education
++ 08.2016 - 07.2020 (expected)
+  **Tsinghua University**, Beijing, China
+  *Bachelor of Science in Mathematics (expected)*
+  Overall GPA: **3.72/4.0**. Ranking: **2/107** in the Department of Mathematics
++ 02.2019 - 06.2019
+
+## Research Experience
+
+## Extracurricular Activities
++ **09.2018-Present**: Volunteer tutor and counselor at the Student Learning and Development Center
++ **06.2018**：Second place in 2018 Beijing College Cricket Competition
++ **11.2017-05.2018**: Vice Chair of the Student Science Association in the Department of Mathematics
++ **10.2016**: Best Debater Honor in the Debate Competition of College of Science
