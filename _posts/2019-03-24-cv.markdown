@@ -8,6 +8,7 @@ title: Curriculum Vitae
   **Tsinghua University**, Beijing, China <br>
   *Bachelor of Science in Mathematics (expected)* <br>
   Overall GPA: **3.72/4.0**. Ranking: **2/107** in the Department of Mathematics <br>
+<br>
 + 02.2019 - 06.2019
 
 ## Research Experience
@@ -17,4 +18,3 @@ title: Curriculum Vitae
 + **06.2018**：Second place in 2018 Beijing College Cricket Competition
 + **11.2017-05.2018**: Vice Chair of the Student Science Association in the Department of Mathematics
 + **10.2016**: Best Debater Honor in the Debate Competition of College of Science
-<br<br>
