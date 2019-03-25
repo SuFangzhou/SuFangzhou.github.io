@@ -10,5 +10,5 @@ View the page on [https://flyinggiraffe.github.io](https://flyinggiraffe.github.
 + [Publications and Manuscrips](https://flyinggiraffe.github.io/2019/03/24/pub.html)
 + [Selected Course Work](https://flyinggiraffe.github.io/2019/03/24/course.html)
 ### Contact
-+ **Mailing Address** No.9 Zijing Building, Tsinghua University, 100084 Beijing, China 
-+ **Email** dengcy16@gmail.com or dengcy16@mails.tsinghua.edu.cn
++ **Mailing Address:** No.9 Zijing Building, Tsinghua University, 100084 Beijing, China 
++ **Email:** dengcy16@gmail.com or dengcy16@mails.tsinghua.edu.cn
