@@ -17,19 +17,19 @@ title: Curriculum Vitae
 + 09.2018 - Present <br>
   **Peking University, Dept. of Machine Intelligence**, Beijing, China <br>
   *Key Laboratory of Machine Perception* <br>
-  Research Assistant. Advisor: **Prof. Liwei Wang** <br>
+  Research Assistant. Advisor: [**Prof. Liwei Wang**](http://www.cis.pku.edu.cn/faculty/vision/wangliwei) <br>
   **Project: Adversarial Robustness of Neural Networks** <br>
   <br>
 + 12.2017 - 09.2018 <br>
   **Tsinghua University, Dept. of Computer Science and Technology**, Beijing, China <br>
   *Graphics and Geometric Computing Group* <br>
-  Research Assistant. Advisor: **Prof. Shi-Min Hu** <br>
+  Research Assistant. Advisor: [**Prof. Shi-Min Hu**](https://cg.cs.tsinghua.edu.cn/prof_hu.htm) <br>
   **Project: Interactive Modeling of Lofting Shapes from a Single Image** <br>
   <br>
 + 12.2017 - 11.2018 <br>
   **Tsinghua University, Dept. of Mathematics**, Beijing, China <br>
   *Institution of Pure Mathematics* <br>
-  Undergraduate Research Training. Advisor: **Prof. Jie Xiao** <br>
+  Undergraduate Research Training. Advisor: [**Prof. Jie Xiao**](http://faculty.math.tsinghua.edu.cn/~jxiao) <br>
   **Junior Thesis: McKay Correspondence and Representation of Quivers** <br>
   <br>
 + 03.2017 - 09.2017 <br>
