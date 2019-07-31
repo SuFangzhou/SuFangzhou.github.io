@@ -3,7 +3,7 @@ layout: post
 title: Drawings
 ---
 
-<img src="https://flyinggiraffe.github.io/images/draw_falling.PNG" height="400">  <img src="https://flyinggiraffe.github.io/images/draw_summer.PNG" height="400">
+<img src="https://flyinggiraffe.github.io/images/draw_falling.png" height="400">  <img src="https://flyinggiraffe.github.io/images/draw_summer.PNG" height="400">
 
 <img src="https://flyinggiraffe.github.io/images/draw_gray.PNG" height="400">  <img src="https://flyinggiraffe.github.io/images/draw_october.PNG" height="400">  <img src="https://flyinggiraffe.github.io/images/draw_winter.PNG" height="400">
 
