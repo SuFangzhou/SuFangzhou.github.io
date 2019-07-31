@@ -6,7 +6,8 @@ title:  "Research"
 
 ## Understanding Adversarial Examples of Neural Networks
 09.2018 - 05.2019. **Advisor:** [**Prof. Liwei Wang**](http://www.cis.pku.edu.cn/faculty/vision/wangliwei) <br>
-**Peking University, Department of Machine Intelligence**
+**Peking University, Department of Machine Intelligence** <br>
+**Publication:** **Congyue Deng**$$^\star$$, Yi Tian$$^\star$$. Towards Understanding the Trade-off between Accuracy and Adversarial Robustness. *ICML 2019 workshop on the Security and Privacy of Machine Learning*.
 
 <img src="https://flyinggiraffe.github.io/images/research_adversarial_1.png" height="150">  <img src="https://flyinggiraffe.github.io/images/research_adversarial_1.png" height="150">
 
@@ -14,7 +15,8 @@ title:  "Research"
 
 ## Single-Image Based Interactive Modeling
 12.2017 - 09.2018. **Advisor:** [**Prof. Shi-Min Hu**](https://cg.cs.tsinghua.edu.cn/prof_hu.htm) <br>
-**Tsinghua University, Department of Computer Science and Technology**
+**Tsinghua University, Department of Computer Science and Technology** <br>
+**Publication:** **Congyue Deng**, Jiahui Huang, Yong-Liang Yang, Shi-Min Hu. Interactive Modeling of Lofting Shapes from a Single Image. *Computational Visual Media Conference 2019*.
 
 <img src="https://flyinggiraffe.github.io/images/research_lofting_input_1.jpg" height="150">  <img src="https://flyinggiraffe.github.io/images/research_lofting_input_2.jpg" height="150">  <img src="https://flyinggiraffe.github.io/images/research_lofting_input_3.jpg" height="150">
 <img src="https://flyinggiraffe.github.io/images/research_lofting_output_1.png" height="150">  <img src="https://flyinggiraffe.github.io/images/research_lofting_output_2.png" height="150">  <img src="https://flyinggiraffe.github.io/images/research_lofting_output_3.png" height="150">
@@ -23,14 +25,16 @@ title:  "Research"
 
 ## McKay Correspondence and Representation of Quivers
 12.2017 - 11.2018. **Advisor:** [**Prof. Jie Xiao**](http://faculty.math.tsinghua.edu.cn/~jxiao) <br>
-**Tsinghua University, Department of Mathematics**
+**Tsinghua University, Department of Mathematics** <br>
+**Junior Thesis:** In partial fulfillment of the requirements for the Tsinghua Xuetang Program.
 
 <img src="https://flyinggiraffe.github.io/images/research_mckay.JPG" height="150">  <img src="https://flyinggiraffe.github.io/images/research_mckay_dynkin.JPG" height="150">
 
 <br>
 
 ## Spatial-Temporal Data Processing
-03.2017 - 09.2017. **With the Cloud Computing Club**<br>
-**Tsinghua University, Department of Computer Science and Technology**
+03.2017 - 09.2017. **With the Cloud Computing Club** <br>
+**Tsinghua University, Department of Computer Science and Technology** <br>
+For the *Mobike Big Data Challenge 2017*.
 
 <img src="https://flyinggiraffe.github.io/images/research_mobike_1.png" height="150">  <img src="https://flyinggiraffe.github.io/images/research_mobike_2.png" height="150">  <img src="https://flyinggiraffe.github.io/images/research_mobike_3.jpg" height="150">
