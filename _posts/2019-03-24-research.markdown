@@ -3,3 +3,16 @@ layout: post
 title:  "Research"
 ---
 <h3><a href="https://flyinggiraffe.github.io">[back]</a></h3>
+
+## Understanding Adversarial Examples of Neural Networks (09.2018 - 05.2019)
+Advisor: [**Prof. Liwei Wang**](http://www.cis.pku.edu.cn/faculty/vision/wangliwei) <br>
+
+## Single-Image Based Interactive Modeling (12.2017 - 09.2018)
+Advisor: [**Prof. Shi-Min Hu**](https://cg.cs.tsinghua.edu.cn/prof_hu.htm) <br>
+
+## McKay Correspondence and Representation of Quivers (12.2017 - 11.2018)
+Advisor: [**Prof. Jie Xiao**](http://faculty.math.tsinghua.edu.cn/~jxiao) <br>
+<img src="https://flyinggiraffe.github.io/images/research_mckay.png" height="150">  <img src="https://flyinggiraffe.github.io/images/research_mckay_dynkin.png" height="150">  <img src="https://flyinggiraffe.github.io/images/research_mckay_cat.png" height="150">
+
+## Spatial-Temporal Data Processing (03.2017 - 09.2017)
+With The **Cloud Computing Club** at Tsinghua<br>
