@@ -9,10 +9,15 @@ title: Course Work
 <br>
 <img src="https://flyinggiraffe.github.io/images/course_shape-ana_1.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_shape-ana_2.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_shape-ana_4.png" height="150">
 <img src="https://flyinggiraffe.github.io/images/course_shape-ana_5.png" height="150">
+
+<br>
+
 ## Honors Algebra (2018 Spring)
 **Morita Theory and Category Equivalence** <br>
 <br>
 <img src="https://flyinggiraffe.github.io/images/course_honors-alg_morita.JPG" height="150">
+
+<br>
 
 ## Advanced Computer Graphics (2017 Fall)
 **Rendering and Bezier-Based Surface Modeling** <br>
@@ -24,6 +29,8 @@ title: Course Work
 <br>
 <img src="https://flyinggiraffe.github.io/images/course_graphics_image_1.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_graphics_image_2.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_graphics_image_3.jpg" height="150">
 <img src="https://flyinggiraffe.github.io/images/course_graphics_image_11.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_graphics_image_21.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_graphics_image_31.png" height="150">
+
+<br>
 
 ## The Practice of C++ Programming (2017 Summer)
 **Qt-Based Game: Ten Drops of Water** <br>
