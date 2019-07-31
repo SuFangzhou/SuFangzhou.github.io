@@ -8,9 +8,11 @@ title: Course Work
 **Rendering and Bezier-Based Surface Modeling** <br>
 <br>
 <img src="https://flyinggiraffe.github.io/images/course_graphics_render_1.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_graphics_render_2.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_graphics_render_3.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_graphics_render_4.png" height="150">
+
 <img src="https://flyinggiraffe.github.io/images/course_graphics_render_5.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_graphics_render_6.png" height="150">
 
 **Image Cloning** <br>
 <br>
 <img src="https://flyinggiraffe.github.io/images/course_graphics_image_1.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_graphics_image_2.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_graphics_image_3.jpg" height="150">
+
 <img src="https://flyinggiraffe.github.io/images/course_graphics_image_11.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_graphics_image_21.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_graphics_image_31.png" height="150">
