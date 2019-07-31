@@ -2,4 +2,4 @@
 layout: post
 title: Drawings
 ---
-![draw_boston](https://github.com/FlyingGiraffe/FlyingGiraffe.github.io/blob/master/images/draw_boston.png){:height="100px"}
+<img src="https://github.com/FlyingGiraffe/FlyingGiraffe.github.io/blob/master/images/draw_boston.png)" width="48">
