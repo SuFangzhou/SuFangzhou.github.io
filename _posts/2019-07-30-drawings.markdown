@@ -12,6 +12,4 @@ title: Drawings
 
 <img src="https://flyinggiraffe.github.io/images/draw_alice.JPG" height="380">  <img src="https://flyinggiraffe.github.io/images/draw_rose.PNG" height="380">
 
-<img src="https://flyinggiraffe.github.io/images/photo_boston.jpg" height="200">  <img src="https://flyinggiraffe.github.io/images/draw_boston.png" height="200">
-
-<img src="https://flyinggiraffe.github.io/images/photo_sweden.jpg" height="200">  <img src="https://flyinggiraffe.github.io/images/draw_sweden.PNG" height="200">
+<img src="https://flyinggiraffe.github.io/images/photo_boston.jpg" height="200">  <img src="https://flyinggiraffe.github.io/images/draw_boston.png" height="200">  <img src="https://flyinggiraffe.github.io/images/photo_sweden.jpg" height="200">  <img src="https://flyinggiraffe.github.io/images/draw_sweden.PNG" height="200">
