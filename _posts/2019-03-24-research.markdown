@@ -7,7 +7,7 @@ title:  "Research"
 ## Understanding Adversarial Examples of Neural Networks
 09.2018 - 05.2019. **Advisor:** [**Prof. Liwei Wang**](http://www.cis.pku.edu.cn/faculty/vision/wangliwei) <br>
 **Peking University, Department of Machine Intelligence** <br>
-**Publication:** **Congyue Deng**$$^\star$$, Yi Tian$$^\star$$. Towards Understanding the Trade-off between Accuracy and Adversarial Robustness. *ICML 2019 workshop on the Security and Privacy of Machine Learning*.
+**Publication:** **Congyue Deng**$^\star$, Yi Tian$^\star$. Towards Understanding the Trade-off between Accuracy and Adversarial Robustness. *ICML 2019 workshop on the Security and Privacy of Machine Learning*.
 
 <img src="https://flyinggiraffe.github.io/images/research_adversarial_1.png" height="150">  <img src="https://flyinggiraffe.github.io/images/research_adversarial_1.png" height="150">
 
