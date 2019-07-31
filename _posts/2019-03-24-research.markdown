@@ -26,7 +26,7 @@ title:  "Research"
 ## McKay Correspondence and Representation of Quivers
 12.2017 - 11.2018. **Advisor:** [**Prof. Jie Xiao**](http://faculty.math.tsinghua.edu.cn/~jxiao) <br>
 **Tsinghua University, Department of Mathematics** <br>
-**Junior Thesis:** In partial fulfillment of the requirements for the Tsinghua Xuetang Program.
+**Junior Thesis:** McKay Correspondence and Representation of Quivers. In partial fulfillment of the requirements for the Tsinghua Xuetang Program.
 
 <img src="https://flyinggiraffe.github.io/images/research_mckay.JPG" height="150">  <img src="https://flyinggiraffe.github.io/images/research_mckay_dynkin.JPG" height="150">
 
