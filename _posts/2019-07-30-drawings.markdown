@@ -4,3 +4,5 @@ title: Drawings
 ---
 
 <img src="https://flyinggiraffe.github.io/images/photo_boston.jpg" height="400">  <img src="https://flyinggiraffe.github.io/images/draw_boston.png" height="400">
+
+<img src="https://flyinggiraffe.github.io/images/photo_sweden.jpg" height="400">  <img src="https://flyinggiraffe.github.io/images/draw_sweden.png" height="400">
