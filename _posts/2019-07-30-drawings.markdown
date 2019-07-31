@@ -2,6 +2,7 @@
 layout: post
 title: Drawings
 ---
+<br>
 
 <img src="https://flyinggiraffe.github.io/images/draw_falling.PNG" height="340">  <img src="https://flyinggiraffe.github.io/images/draw_summer.PNG" height="340">
 
