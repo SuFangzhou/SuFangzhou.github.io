@@ -5,7 +5,7 @@ title:  "Research"
 <h3><a href="https://flyinggiraffe.github.io">[back]</a></h3>
 
 ## Understanding Adversarial Examples of Neural Networks
-09.2018 - 05.2019. Advisor: [**Prof. Liwei Wang**](http://www.cis.pku.edu.cn/faculty/vision/wangliwei) <br>
+09.2018 - 05.2019. **Advisor:** [**Prof. Liwei Wang**](http://www.cis.pku.edu.cn/faculty/vision/wangliwei) <br>
 **Peking University, Department of Machine Intelligence**
 
 ## Single-Image Based Interactive Modeling
