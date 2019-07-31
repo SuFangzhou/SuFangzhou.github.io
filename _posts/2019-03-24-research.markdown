@@ -30,4 +30,4 @@ title:  "Research"
 03.2017 - 09.2017. **With the Cloud Computing Club**<br>
 **Tsinghua University, Department of Computer Science and Technology**
 
-<img src="https://flyinggiraffe.github.io/images/research_mobike_1.png" height="150">  <img src="https://flyinggiraffe.github.io/images/research_mobike_2.jpg" height="150">
+<img src="https://flyinggiraffe.github.io/images/research_mobike_1.png" height="150">  <img src="https://flyinggiraffe.github.io/images/research_mobike_2.png" height="150">  <img src="https://flyinggiraffe.github.io/images/research_mobike_3.jpg" height="150">
