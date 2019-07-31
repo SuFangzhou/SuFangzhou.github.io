@@ -4,6 +4,11 @@ title: Course Work
 ---
 <h3><a href="https://flyinggiraffe.github.io">[back]</a></h3>
 
+## Honors Algebra (2018 Spring)
+**Morita Theory and Category Equivalence** <br>
+<br>
+<img src="https://flyinggiraffe.github.io/images/course_honors-alg_morita.JPG" height="150">
+
 ## Advanced Computer Graphics (2017 Fall)
 **Rendering and Bezier-Based Surface Modeling** <br>
 <br>
