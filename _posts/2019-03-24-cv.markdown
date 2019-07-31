@@ -21,6 +21,12 @@ title: Curriculum Vitae
   Only 18 students are selected from main-land China and Taiwan
 
 ## Research Experience
++ 07.2019 - 09.2019 <br>
+  **Stanford University, School of Engineering**, Stanford, CA, USA <br>
+  *Computer Graphics Laboratory* <br>
+  Research Assistant. Advisor: [**Ronald Fedkiw**](http://physbam.stanford.edu/~fedkiw/) <br>
+  **Project: Data-Driven Cloth Rendering for E-Commerce** <br>
+  <br>
 + 09.2018 - 05.2019 <br>
   **Peking University, Dept. of Machine Intelligence**, Beijing, China <br>
   *Key Laboratory of Machine Perception* <br>
