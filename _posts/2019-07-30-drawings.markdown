@@ -3,5 +3,4 @@ layout: post
 title: Drawings
 ---
 
-<img src="https://github.com/FlyingGiraffe/FlyingGiraffe.github.io/blob/master/images/photo_boston.jpg" height="400">
-<img src="https://github.com/FlyingGiraffe/FlyingGiraffe.github.io/blob/master/images/draw_boston.png" height="400">
+<img src="https://github.com/FlyingGiraffe/FlyingGiraffe.github.io/blob/master/images/photo_boston.jpg" height="400">  <img src="https://github.com/FlyingGiraffe/FlyingGiraffe.github.io/blob/master/images/draw_boston.png" height="400">
