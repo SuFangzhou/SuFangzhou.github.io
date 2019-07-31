@@ -7,9 +7,9 @@ title: Drawings
 
 <img src="https://flyinggiraffe.github.io/images/draw_october.PNG" height="300">  <img src="https://flyinggiraffe.github.io/images/draw_winter.PNG" height="300">  <img src="https://flyinggiraffe.github.io/images/draw_spring.PNG" height="300">
 
-<img src="https://flyinggiraffe.github.io/images/draw_gray.PNG" height="400">  <img src="https://flyinggiraffe.github.io/images/draw_hotpot.PNG" height="400">
+<img src="https://flyinggiraffe.github.io/images/draw_gray.PNG" height="300">  <img src="https://flyinggiraffe.github.io/images/draw_hotpot.PNG" height="300">
 
-<img src="https://flyinggiraffe.github.io/images/draw_alice.JPG" height="400">  <img src="https://flyinggiraffe.github.io/images/draw_rose.PNG" height="400">
+<img src="https://flyinggiraffe.github.io/images/draw_alice.JPG" height="300">  <img src="https://flyinggiraffe.github.io/images/draw_rose.PNG" height="300">
 
 <img src="https://flyinggiraffe.github.io/images/photo_boston.jpg" height="500">  <img src="https://flyinggiraffe.github.io/images/draw_boston.png" height="500">
 
