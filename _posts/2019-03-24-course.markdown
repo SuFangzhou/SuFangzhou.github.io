@@ -3,3 +3,9 @@ layout: post
 title: Course Work
 ---
 <h3><a href="https://flyinggiraffe.github.io">[back]</a></h3>
+
+## Rendering and Bezier-Based Surface Modeling
+### Advanced Computer Graphics (2017 Fall)
+<img src="https://flyinggiraffe.github.io/images/course_graphics_render_1.png" height="300">  <img src="https://flyinggiraffe.github.io/images/course_graphics_render_2.png" height="300">  <img src="https://flyinggiraffe.github.io/images/course_graphics_render_3.png" height="300">
+
+<img src="https://flyinggiraffe.github.io/images/course_graphics_render_4.png" height="300">  <img src="https://flyinggiraffe.github.io/images/course_graphics_render_5.png" height="300">
