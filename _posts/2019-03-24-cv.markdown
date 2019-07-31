@@ -20,17 +20,17 @@ title: Curriculum Vitae
   Only 18 students are selected from main-land China and Taiwan
 
 ## Research Experience
-+ 09.2018 - Present <br>
++ 09.2018 - 05.2019 <br>
   **Peking University, Dept. of Machine Intelligence**, Beijing, China <br>
   *Key Laboratory of Machine Perception* <br>
   Research Assistant. Advisor: [**Prof. Liwei Wang**](http://www.cis.pku.edu.cn/faculty/vision/wangliwei) <br>
-  **Project: Adversarial Robustness of Neural Networks** <br>
+  **Project: Understanding Adversarial Examples of Neural Networks** <br>
   <br>
 + 12.2017 - 09.2018 <br>
   **Tsinghua University, Dept. of Computer Science and Technology**, Beijing, China <br>
   *Graphics and Geometric Computing Group* <br>
   Research Assistant. Advisor: [**Prof. Shi-Min Hu**](https://cg.cs.tsinghua.edu.cn/prof_hu.htm) <br>
-  **Project: Interactive Modeling of Lofting Shapes from a Single Image** <br>
+  **Project: Single-Image Based Interactive Modeling** <br>
   <br>
 + 12.2017 - 11.2018 <br>
   **Tsinghua University, Dept. of Mathematics**, Beijing, China <br>
