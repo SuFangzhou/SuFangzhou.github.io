@@ -31,7 +31,7 @@ title: Curriculum Vitae
   **Peking University, Dept. of Machine Intelligence**, Beijing, China <br>
   *Key Laboratory of Machine Perception* <br>
   Research Assistant. Advisor: [**Prof. Liwei Wang**](http://www.cis.pku.edu.cn/faculty/vision/wangliwei) <br>
-  **Project: Understanding Adversarial Examples of Neural Networks** <br>
+  **Project: Understanding Adversarial Example of Neural Networks** <br>
   <br>
 + 12.2017 - 09.2018 <br>
   **Tsinghua University, Dept. of Computer Science and Technology**, Beijing, China <br>
