@@ -10,7 +10,7 @@ title: Course Work
 <img src="https://flyinggiraffe.github.io/images/course_shape-ana_1.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_shape-ana_2.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_shape-ana_4.png" height="150">
 <img src="https://flyinggiraffe.github.io/images/course_shape-ana_5.png" height="150">
 
-**Shape Interpolation using Wasserstein Barycenters** <br>
+**Shape Interpolation Using Wasserstein Barycenters** <br>
 <br>
 <img src="https://flyinggiraffe.github.io/images/course_shape-ana_ot_1.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_shape-ana_ot_2.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_shape-ana_ot_3.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_shape-ana_ot_4.png" height="150">
 <img src="https://flyinggiraffe.github.io/images/course_shape-ana_ot_5.png" height="150">
