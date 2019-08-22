@@ -12,8 +12,8 @@ title: Course Work
 
 **Shape Interpolation Using Wasserstein Barycenters** <br>
 <br>
-<img src="https://flyinggiraffe.github.io/images/course_shape-ana_ot_1.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_shape-ana_ot_2.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_shape-ana_ot_3.png" height="150">  <img src="https://flyinggiraffe.github.io/images/course_shape-ana_ot_4.png" height="150">
-<img src="https://flyinggiraffe.github.io/images/course_shape-ana_ot_5.png" height="150">
+<img src="https://flyinggiraffe.github.io/images/course_shape-ana_ot_1.png" height="100">  <img src="https://flyinggiraffe.github.io/images/course_shape-ana_ot_2.png" height="100">  <img src="https://flyinggiraffe.github.io/images/course_shape-ana_ot_3.png" height="100">  <img src="https://flyinggiraffe.github.io/images/course_shape-ana_ot_4.png" height="100">
+<img src="https://flyinggiraffe.github.io/images/course_shape-ana_ot_5.png" height="100">
 
 <br>
 
