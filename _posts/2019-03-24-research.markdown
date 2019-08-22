@@ -17,7 +17,7 @@ title:  "Research"
 **Peking University, Department of Machine Intelligence** <br>
 **Publication:** **Congyue Deng**<sup>\*</sup>, Yi Tian<sup>\*</sup>. Towards Understanding the Trade-off between Accuracy and Adversarial Robustness. *ICML 2019 workshop on the Security and Privacy of Machine Learning*.
 
-<img src="https://flyinggiraffe.github.io/images/research_adversarial_1" height="150">  <img src="https://flyinggiraffe.github.io/images/research_adversarial_2.png" height="150">
+<img src="https://flyinggiraffe.github.io/images/research_adversarial_1.png" height="150">  <img src="https://flyinggiraffe.github.io/images/research_adversarial_2.png" height="150">
 
 <br>
 
@@ -45,4 +45,4 @@ title:  "Research"
 **Tsinghua University, Department of Computer Science and Technology** <br>
 For the *Mobike Big Data Challenge 2017*.
 
-<img src="https://flyinggiraffe.github.io/images/research_mobike_1.png" height="150">  <img src="https://flyinggiraffe.github.io/images/research_mobike_2.png" height="150">  <img src="https://flyinggiraffe.github.io/images/research_mobike_3.jpg" height="150">
+<img src="https://flyinggiraffe.github.io/images/research_mobike_1.png" height="150">  <img src="https://flyinggiraffe.github.io/images/research_mobike_2.png" height="150">
