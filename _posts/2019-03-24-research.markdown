@@ -7,6 +7,7 @@ title:  "Research"
 ## Data-Driven Cloth Rendering for E-Commerce
 07.2019 - 09.2019. **Advisor:** [**Prof. Ronald Fedkiw**](http://physbam.stanford.edu/~fedkiw) <br>
 **Stanford University, School of Engineering** <br>
+For the JD.com virtual try-on system.
 
 <img src="https://flyinggiraffe.github.io/images/research_cloth_setup.jpg" height="150">  <img src="https://flyinggiraffe.github.io/images/research_cloth_sample.png" height="150">  <img src="https://flyinggiraffe.github.io/images/research_cloth_demo.png" height="150">
 
