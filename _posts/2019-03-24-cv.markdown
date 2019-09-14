@@ -21,10 +21,16 @@ title: Curriculum Vitae
   Only 18 students are selected from main-land China and Taiwan
 
 ## Research Experience
++ 09.2019 - Present <br>
+**MEGVII (Face++) Research**, Beijing, China <br>
+*Video Group* <br>
+Research Intern. Mentor: [**Dr. Chi Zhang**](https://www.linkedin.com/in/chi-zhang-444b24119) <br>
+**Project: Vehicle Pose Estimation in Traffic Scenes** <br>
+<br>
 + 07.2019 - 09.2019 <br>
   **Stanford University, School of Engineering**, Stanford, CA, USA <br>
   *Computer Graphics Laboratory* <br>
-  Research Assistant. Advisor: [**Prof. Ronald Fedkiw**](http://physbam.stanford.edu/~fedkiw/) <br>
+  Research Assistant. Advisor: [**Prof. Ronald Fedkiw**](http://physbam.stanford.edu/~fedkiw) <br>
   **Project: Data-Driven Cloth Rendering for E-Commerce** <br>
   <br>
 + 09.2018 - 05.2019 <br>
