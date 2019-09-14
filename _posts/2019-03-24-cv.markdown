@@ -22,10 +22,10 @@ title: Curriculum Vitae
 
 ## Research Experience
 + 09.2019 - Present <br>
-**MEGVII (Face++) Research**, Beijing, China <br>
-*Video Group* <br>
-Research Intern. Mentor: [**Dr. Chi Zhang**](https://www.linkedin.com/in/chi-zhang-444b24119) <br>
-**Project: Vehicle Pose Estimation in Traffic Scenes** <br>
+  **MEGVII (Face++) Research**, Beijing, China <br>
+  *Video Group* <br>
+  Research Intern. Mentor: [**Dr. Chi Zhang**](https://www.linkedin.com/in/chi-zhang-444b24119) <br>
+  **Project: Vehicle Pose Estimation in Traffic Scenes** <br>
 <br>
 + 07.2019 - 09.2019 <br>
   **Stanford University, School of Engineering**, Stanford, CA, USA <br>
