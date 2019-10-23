@@ -8,7 +8,7 @@ title: Curriculum Vitae
 + 08.2016 - 07.2020 (expected) <br>
   **Tsinghua University**, Beijing, China <br>
   *Bachelor of Science in Mathematics (expected)* <br>
-  Overall GPA: **3.89/4.0**. Ranking: **1/117** in the Department of Mathematics <br>
+  Overall GPA: **3.89/4.0**. Ranking: **1/114** in the Department of Mathematics <br>
   <br>
 + 01.2019 - 05.2019 <br>
   **Massachusetts Institute of Technology**, Cambridge, MA, USA <br>
@@ -21,12 +21,6 @@ title: Curriculum Vitae
   Only 18 students are selected from main-land China and Taiwan
 
 ## Research Experience
-+ 09.2019 - Present <br>
-  **MEGVII (Face++) Research**, Beijing, China <br>
-  *Video Group* <br>
-  Research Intern. Mentor: [**Dr. Chi Zhang**](https://www.linkedin.com/in/chi-zhang-444b24119) <br>
-  **Project: Vehicle Pose Estimation in Traffic Scenes** <br>
-  <br>
 + 07.2019 - 09.2019 <br>
   **Stanford University, School of Engineering**, Stanford, CA, USA <br>
   *Computer Graphics Laboratory* <br>
