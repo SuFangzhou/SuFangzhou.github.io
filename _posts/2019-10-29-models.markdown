@@ -4,4 +4,4 @@ title: 3D Models
 ---
 <h3><a href="https://flyinggiraffe.github.io">[back]</a></h3>
 
-<img src="https://flyinggiraffe.github.io/images/model_bedroom.PNG" height="400"> <img src="https://flyinggiraffe.github.io/images/model_bedroom3.PNG" height="400">
+<img src="https://flyinggiraffe.github.io/images/model_bedroom.png" height="400"> <img src="https://flyinggiraffe.github.io/images/model_bedroom3.png" height="400">
