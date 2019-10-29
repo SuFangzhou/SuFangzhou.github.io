@@ -5,4 +5,5 @@ title: 3D Models
 <h3><a href="https://flyinggiraffe.github.io">[back]</a></h3>
 
 **A bedroom scene modeled and rendered with Blender**
+
 <img src="https://flyinggiraffe.github.io/images/model_bedroom.png" height="340"> <img src="https://flyinggiraffe.github.io/images/model_bedroom3.png" height="340">
