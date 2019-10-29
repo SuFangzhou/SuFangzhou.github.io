@@ -4,7 +4,7 @@ title: Drawings
 ---
 <h3><a href="https://flyinggiraffe.github.io">[back]</a></h3>
 
-<img src="https://flyinggiraffe.github.io/images/draw_earring.PNG" height="300">  <img src="https://flyinggiraffe.github.io/images/draw_autumn.PNG" height="300">  <img src="https://flyinggiraffe.github.io/images/draw_birthday.PNG" height="300">
+<img src="https://flyinggiraffe.github.io/images/draw_earring.PNG" height="310">  <img src="https://flyinggiraffe.github.io/images/draw_autumn.PNG" height="310">  <img src="https://flyinggiraffe.github.io/images/draw_birthday.PNG" height="310">
 <img src="https://flyinggiraffe.github.io/images/draw_falling.PNG" height="340">  <img src="https://flyinggiraffe.github.io/images/draw_summer.PNG" height="340">
 <img src="https://flyinggiraffe.github.io/images/draw_october.PNG" height="300">  <img src="https://flyinggiraffe.github.io/images/draw_winter.PNG" height="300">  <img src="https://flyinggiraffe.github.io/images/draw_spring.PNG" height="300">
 <img src="https://flyinggiraffe.github.io/images/draw_gray.PNG" height="326">  <img src="https://flyinggiraffe.github.io/images/draw_hotpot.PNG" height="326">
