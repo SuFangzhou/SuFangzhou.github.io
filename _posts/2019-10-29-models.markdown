@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Drawings
+title: 3D Models
 ---
 <h3><a href="https://flyinggiraffe.github.io">[back]</a></h3>
 
