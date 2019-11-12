@@ -2,7 +2,7 @@
 layout: post
 title:  "Research"
 ---
-<h3><a href="https://flyinggiraffe.github.io">[back]</a></h3>
+<h3><a href="https://sufangzhou.github.io">[back]</a></h3>
 
 ## Data-Driven Cloth Rendering for E-Commerce
 07.2019 - 09.2019. **Advisor:** [**Prof. Ronald Fedkiw**](http://physbam.stanford.edu/~fedkiw) <br>
