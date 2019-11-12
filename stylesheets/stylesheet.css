@@ -451,7 +451,7 @@ header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #ab2121 url(../images/header-bg.jpg) no-repeat center;
+  background: #0077e6 url(../images/header-bg.jpg) no-repeat center;
   background-size: 100% 100%
 }
 
@@ -625,7 +625,7 @@ form {
 #main-content h1:before {
   padding-right: 0.3em;
   margin-left: -0.9em;
-  color: #ab2121;
+  color: #0077e6;
   content: "●";
 }
 
