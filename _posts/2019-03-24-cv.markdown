@@ -2,23 +2,13 @@
 layout: post
 title: Curriculum Vitae
 ---
-<h3><a href="https://flyinggiraffe.github.io">[back]</a></h3>
+<h3><a href="https://sufangzhou.github.io">[back]</a></h3>
 
 ## Education
 + 08.2016 - 07.2020 (expected) <br>
   **Tsinghua University**, Beijing, China <br>
   *Bachelor of Science in Mathematics (expected)* <br>
-  Overall GPA: **3.89/4.0**. Ranking: **1/114** in the Department of Mathematics <br>
-  <br>
-+ 01.2019 - 05.2019 <br>
-  **Massachusetts Institute of Technology**, Cambridge, MA, USA <br>
-  *Undergraduate Special Student Program (Exchange Program)* <br>
-  GPA: **5.0/5.0** <br>
-  <br>
-+ 07.2019 - 09.2019 <br>
-  **Stanford University**, Stanford, CA, USA <br>
-  *Chinese Undergraduate Visiting Research (UGVR) Program* <br>
-  Only 18 students are selected from main-land China and Taiwan
+  Overall GPA: **3.90/4.0**. Ranking: **1/105** in the Department of Mathematics <br>
 
 ## Research Experience
 + 07.2019 - 09.2019 <br>
