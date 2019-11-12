@@ -1,3 +1,3 @@
-# FlyingGiraffe.github.io
-My personal webpage. Modified from Jekyll GitHub Pages theme [Architect](https://github.com/pietromenna/jekyll-architect-theme). <br>
-View the page on [https://flyinggiraffe.github.io](https://flyinggiraffe.github.io).
+# SuFangzhou.github.io
+My personal webpage. Modified from Congyue Deng's. [homepage](https://flyinggiraffe.github.io). <br>
+View the page on [https://sufangzhou.github.io](https://sufangzhou.github.io).
